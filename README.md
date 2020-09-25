@@ -1,5 +1,9 @@
 # README.md
 
+```
+git clone https://github.com/dongjuns/RoadDamageDetector.git
+```
+
 Read and use the Dongjuns_IEEE_BDC_GRDD_2020_submission.ipynb    
 
 Here are two ways to evaluate my model.
