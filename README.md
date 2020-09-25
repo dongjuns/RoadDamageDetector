@@ -1,6 +1,8 @@
 # README.md
 
 ```
+conda create -n ws python=3.8 Pillow
+conda activate ws
 git clone https://github.com/dongjuns/RoadDamageDetector.git
 ```
 
