@@ -15,3 +15,5 @@ But there is a complex step to make it clear, so I suggest you just to see No.1,
 but use road.tar.gz file easily.
 
 You can go to section '1. Let's go with docker' directly.
+
+https://www.researchgate.net/project/Road-Damage-Detection
